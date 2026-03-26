@@ -1,1 +1,6 @@
+Welcome to the A/B Testing Intelligence Platform. This interactive dashboard is designed to take you from raw experiment data to statistically sound business decisions in minutes.
+This guide will walk you through navigating the platform, configuring your test parameters, and interpreting the results across 7 analytical modules.
 
+#Step 1: Configuration & Data 
+ UploadAll global settings for your analysis are managed in the left-hand sidebar.Select Data Source: * Use Kaggle Dataset: Loads the default Kaggle Marketing A/B Test dataset to help you explore the platform's features.Upload Your Own CSVs: Allows you to upload custom control_group.csv and test_group.csv files. Note: Files must be semicolon-delimited (;) and contain matching column headers like Spend [USD], Impressions, and Purchase.Set Test Parameters: Adjust the Significance Level ($\alpha$) slider (between 0.01 and 0.10) to define the probability threshold for rejecting the null hypothesis. This dynamically updates the confidence level across all statistical tests.Choose Primary Metric: Select the core KPI (e.g., Purchase, Add to Cart, Reach) that determines the ultimate "winner" of your experiment.
+ <img width="209" height="550" alt="step1" src="https://github.com/user-attachments/assets/507cc0f0-0e7a-4aa0-9678-9336f3abf339" />
