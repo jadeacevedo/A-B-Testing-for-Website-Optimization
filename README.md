@@ -1,3 +1,4 @@
+# A/B Testing Intelligence Platform
 Welcome to the A/B Testing Intelligence Platform. This interactive dashboard is designed to take you from raw experiment data to statistically sound business decisions in minutes.
 This guide will walk you through navigating the platform, configuring your test parameters, and interpreting the results across 7 analytical modules.
 
